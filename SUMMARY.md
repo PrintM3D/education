@@ -47,4 +47,8 @@
     * [Sculpture](lesson-plans/9-12/sculpture.md)
     * [Self Portrait](lesson-plans/9-12/self-portrait.md)
     * [Volumes Of Revolution](lesson-plans/9-12/volumes-of-revolution.md)
+* [Online 3D Model Repositories](online-3d-model-repositories.md)
+* [File Formats](file-formats.md)
+* [Online Tools](online-tools.md)
+* [Search Engines](search-engines.md)
 
