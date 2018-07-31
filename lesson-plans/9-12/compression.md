@@ -1,0 +1,21 @@
+# Compression
+
+Subject Area: Engineering
+
+Learning Objectives: Students will learn about the compression of different types of materials. 
+
+Materials Needed: One computer, one Micro or Micro+ 3D printer, at least three spools of 3D Ink in different materials and weights per 2-5 students. 
+
+Brief Description: Students will print out test models in different materials and measure their compression. 
+
+To Prepare: Students will need a computer that has the M3D software on it. We recommend one printer per every 2-5 students. The Micro or Micro+ 3D printer will need to be plugged into both the wall and the computer. Each printer will need to have a spool of 3D Ink feeding into the external port. A spool holder is also recommended. 
+
+If you need assistance with any of the above please see our guides at support.printm3d.com. 
+
+Lesson Plan: 
+
+1. Divide students into small groups.   
+2. Students will go online to https://www.thingiverse.com/thing:13601 and download the lattice cube.   
+3. Each group should print one cube in at least three different types of materials.   
+4. Once they have their models printed, students should place weights on the cubes and measure how much weight it takes to compress the model 1mm, 2mm, & 3mm. 
+
